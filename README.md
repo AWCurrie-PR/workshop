@@ -1,6 +1,8 @@
 # Github workshop
 This is a demo repository created for GES Chapter github workshop.
 
+James has made changes to this readme file.
+
 # Andy Currie Change
 This is Andrew Currie's change
 
